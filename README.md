@@ -57,11 +57,11 @@ Unusual spending alerts
 
 ## Installation & Setup
 
-1️. Open Project Folder
+# 1️. Open Project Folder
 Open the folder in terminal or VS Code
-2.Install dependencies
+# 2.Install dependencies
 pip install -r requirements.txt
-3.Run the application
+# 3.Run the application
 streamlit run app.py
 
 
