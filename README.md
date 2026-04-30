@@ -2,8 +2,8 @@
 
 A feature-rich personal finance tracker built with Streamlit that helps users manage expenses, track budgets, and gain AI-powered financial insights.
 
-## Live link
-
+## Live Demo
+https://myfinance---ai-personal-finance-tracker-jyrtg65zj47aoliwjdilpi.streamlit.app/
 
 ## Features
 # 1. User Authentication
@@ -38,12 +38,12 @@ Alerts for overspending
 - Unusual spending alerts
 
 ## Tech Stack
-Frontend & App Framework: Streamlit
-Data Handling: Pandas, NumPy
-Visualization: Matplotlib
-Machine Learning: Scikit-learn
+- Frontend & App Framework: Streamlit
+- Data Handling: Pandas, NumPy
+- Visualization: Matplotlib
+- Machine Learning: Scikit-learn
 
-## 📂 Project Structure
+## Project Structure
 ├── app.py              # Main application
 ├── data.csv            # Stores transactions
 ├── users.csv           # Stores user credentials
@@ -65,7 +65,7 @@ streamlit run app.py
 🎯 Budget Tracker
 🤖 AI Insights
 
-## 💡 How It Works
+## How It Works
 - Data is stored locally using CSV files
 - User-specific data is filtered using session state
 - Machine learning models:
